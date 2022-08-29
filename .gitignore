@@ -60,3 +60,4 @@ build/*
 .cmsis/*
 .eide.usr.ctx.json
 .clang-format
+SeekFree_MM32F327X_G8P_Opensource_Library.code-workspace
