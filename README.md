@@ -2,8 +2,8 @@
 8/29/2022 12:07:20 PM <br>
 适用于智能车竞赛的MM32-Sbus解析程序。已经由下面的设备验证可用，其他设备仅供参考<br>
 
-<center><img src=" images/00.png " width="90%"></center>
-<br><br>
+<center><img src=" images/00.png " width="90%"><br>Debug界面</center>
+
 ***
 ### 测试设备
 + 遥控器:WFLY ET07
