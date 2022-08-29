@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+project/iar/*
+project/mdk/Objects/*
+project/mdk/Listings/*
+project/mdk/mm32f327x_g8p.uvguix.hhh
+build/*
+.vscode/*
+.eide/*
+.cmsis/*
+.eide.usr.ctx.json
+.clang-format
