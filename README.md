@@ -4,13 +4,13 @@
 
 <img src=" images/00.png " width="60%">
 ***
-###测试设备
+### 测试设备
 + 遥控器:WFLY ET07
 + 接收机:WFLY RF201S
 + MCU:MM32F3277G8P
 ***
-###开发环境
-+ Keil MDK V5.33<br>
+### 开发环境
++ Keil MDK V5.33
 ***
 ### 开发者
 组织：桂林信息科技学院 通信创新实践基地<br>
